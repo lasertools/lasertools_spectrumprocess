@@ -1,3 +1,3 @@
 """Initialization"""
 
-from spectrumprocessdev.process import *
+from lasertools_spectrumprocess.process import *

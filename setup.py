@@ -5,13 +5,13 @@ with open("README.md", "r") as f:
 
 setup(
     name="lasertools_spectrumprocess",
-    version="0.0.1",
+    version="0.0.1.1",
     description="A module to process spectra",
     license="GPLv3",
     long_description=long_description,
     author_email="68578865+brittonm@users.noreply.github.com",
     url="https://github.com/lasertools/lasertools_spectrumprocess",
-    download_url = 'https://github.com/lasertools/lasertools_spectrumprocess/archive/refs/tags/v_0_0_1.tar.gz',
+    download_url = 'https://github.com/lasertools/lasertools_spectrumprocess/archive/refs/tags/v_0_0_1_1.tar.gz',
     packages=["lasertools_spectrumprocess", "lasertools_spectrumprocess.utilities"],
     install_requires=[
         "numpy",

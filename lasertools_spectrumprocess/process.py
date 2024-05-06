@@ -3,7 +3,7 @@
 import sys
 import dataclasses
 import numpy as np
-from spectrumprocessdev import utilities
+from lasertools_spectrumprocess import utilities
 
 
 @dataclasses.dataclass
